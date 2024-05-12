@@ -1,0 +1,8 @@
+<!-- my_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_all"
+        android:title="Delete All"
+        android:icon="@drawable/baseline_delete_24"
+        android:showAsAction="always" />
+</menu>
